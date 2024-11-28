@@ -20,11 +20,11 @@
 ### **Screenshots**
 
 1. **Dashboard**  
-   ![Dashboard](Screenshots\cliTest.png)  
+   ![Dashboard](Screenshots/cliTest.png)  
    *Caption: Overview of the tool's main dashboard(CLI).*
 
 2. **Scanner**  
-   ![Scanner](Screenshots\Scanning.png)  
+   ![Scanner](Screenshots/Scanning.png)  
    *Caption: Scanning for vulnerabilities.*
 
 3. **Captured Data Example**  
